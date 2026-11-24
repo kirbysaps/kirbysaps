@@ -1,6 +1,5 @@
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com/kirbysaps.svg?label=fright%20or%20fight&extraCount=1814&color=593232&labelColor=3c3232)](https://hits.sh/github.com/kirbysaps/)
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com/kirbysaps.svg?label=disenchanted&extraCount=1814&color=593232&labelColor=3c3232)](https://hits.sh/github.com/kirbysaps/)
 ㅤㅤㅤ
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  [saparata](https://frozi.lol/saparata) & [saps](https://frozi.lol/saps)
